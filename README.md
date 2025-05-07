@@ -5,6 +5,9 @@ QT_designer를 이용해 만들어둔 프로그램을 yolov8을 사용하여 실
 ```
 pip install requirements.txt
 ```
+```
+pip install ultralytics
+```
 # yolov5 > yolov8 새로 학습
 기존 yolov5버전의 best.pt는 yolov8과 호환되지 않으므로 새로 학습해야함
 (yolov5에서 쓰던 데이터셋은 호환 가능)
