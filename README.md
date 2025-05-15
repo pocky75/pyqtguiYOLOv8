@@ -1,4 +1,4 @@
-# pyqtgui_yolo
+# pyqtgui_yolo 250507
 QT_designer를 이용해 만들어둔 프로그램을 yolov8을 사용하여 실시간 객체 인식이 되도록 만든 프로그램
 
 # python패키지 설치
